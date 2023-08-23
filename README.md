@@ -1,24 +1,14 @@
 # TÍTULO DO PROJETO
 
-EntreTime
-Análise e Desenvolvimento de Sistemas
-
-Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
-
-Terceiro Semestre
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Código de teste. Uma vez que foi criado outro para a equipe
 
 ## Integrantes
 
 Daniel Mendes Rufino Silva
-Pedro Henrique da Silva Santos
-Stephanye Castellano
-Nome completo do aluno 4
+
 
 ## Orientador
 
-Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
